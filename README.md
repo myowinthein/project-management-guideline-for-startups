@@ -58,4 +58,4 @@
 | Step | Responsibility | Action | Output |
 | ---- | -------------- | ------ | ------ |
 | 1 | All | 1. Give feedback on performance of each team members <br/> 2. List down the mistakes <br/> 3. Create plans to improve in coming projects | Lessons to learn |
-| 2 | All | Nightout together or do team dinner | Improved team building |
+| 2 | All | Nightout together or arrange team dinner | Improved team building |
