@@ -20,7 +20,7 @@
 | 2 | BA | Prepare use case diagrams, AC sheets, BRS, etc. | A bunch of documents to understand the business flow |
 | 3 | CTO, PD, PM, BA | 1. Read the documents from BA <br/> 2. Plan resource allocation <br/> 3. Choose the lead developer <br/> 4. Discuss tech stacks | 1. Understanding of the project scope <br/> 2. A development team |
 | 4 | UI, UX, Dev | 1. Timeline estimation <br/> 2. Submit timeline to CTO, PD, BD, BA & PM <br/> 3. Add buffer to timeline by PM | Overall estimated timeline of each platform |
-| 5 | BD, PD, PM, BA | Calculate the estimated project cost based on initial timeline | Overall estimated cost |
+| 5 | BD, PD, PM, BA | Calculate the estimated project cost based on timeline | Overall estimated cost |
 | 6 | PM | 1. Submit documents from BA, CV of tech team members, project development procedure, tech stacks, estimated timeline and cost to client <br/> 2. Let the client know these are the initial estimations. The actual timeline and cost can be different based on upcoming changes | Wait for client decision |
 
 # 2nd Stage - Client Agreed the Proposal & UI/UX Kick Off
@@ -33,3 +33,11 @@
 | 4 | UX | 1. Draw prototypes of each platform <br/> 2. Submit completed pages to PM and Dev to confirm techincal feasibility | Link of hosted prototype (e.g. sketch, invision) |
 | 5 | PM | 1. Send prototype hosted link to client <br/> 2. Once received the feedback, discuss with UX for changes <br/> 3. Loop the process until the final prototype is released | Wait for client feedback |
 | 6 | UI | 1. Generate web design template based on prototype <br/> 2. Submit completed pages to PM and Dev | Frontend codes in repository (e.g. gitlab) |
+
+# 3rd Stage - Timeline & Cost Adjustment
+| Step | Responsibility | Action | Output |
+| ---- | -------------- | ------ | ------ |
+| 1| | BA, PM | 1. Analysis all the changes & new features made by client <br/> 2. Prepare to send additional timeline & cost | Impact of feature changes |
+| 2 | Dev | 1. Timeline estimation <br/> 2. Submit timeline to CTO, PD, BD, BA & PM <br/> 3. Add buffer to timeline by PM | Overall estimated timeline of each platform |
+| 3 | BD, PD, PM, BA | 1. Calculate the additional project cost based on timeline | Overall estimated cost |
+| 4 | PM, BA | Send the additional timeline & cost to client | Wait for client decision |
