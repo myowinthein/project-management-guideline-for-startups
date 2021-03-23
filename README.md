@@ -53,3 +53,9 @@
 | 5 | PM, QA | 1. Assign QA to write test case of each feature <br/> 2. Give that test case to Dev once done | Understanding of the test case |
 | 6 | PM, QA, Dev | 1. Explain the project management procedure <br/> 2. Explain the planned timeline <br/> 3. Explain the testing procedure <br/> 4. Start assigning of the task | Understanding of the project management plan |
 | 7 | PM | 1. If new features or changes requested during the development, follow these steps <br/> 2. Move all new features to end of each sprint <br/> 3. Integrate all changes within the sprint <br/> 4. Perform 3rd stage described above | A plan to manage the changes |
+
+# 5th Stage - Project Completion
+| Step | Responsibility | Action | Output |
+| ---- | -------------- | ------ | ------ |
+| 1 | All | 1. Give feedback on performance of each team members <br/> 2. List down the mistakes <br/> 3. Create plans to improve in coming projects | Lessons to learn |
+| 2 | All | Nightout together or do team dinner | Improved team building |
