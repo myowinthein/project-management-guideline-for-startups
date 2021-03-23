@@ -29,7 +29,7 @@
 | ---- | -------------- | ------ | ------ |
 | 1 | PM, BA | 1. Split the project by sprints <br/> 2. Add features in PMS (e.g. clickup, forcast) <br/> 3. Invite client to PMS | Wait for client decision |
 | 2 | PM, BA, UI, UX, Dev, QA | 1. Disuss technical & business flow of each feature in PMS by sprints <br/> 2. BA to note down the questions to clarify with client | 1. Understanding of each feature <br/> 2. List of questions to clarify with client |
-| 3 | BA | 1. Send the questions to client <br/> 2. Once received the feedback, explained to tech team <br/> 3. Loop the process until no more questions left | Wait for client feedback |
-| 4 | UX | 1. Draw prototypes of each platform <br/> 2. Submit completed pages to PM and dev to confirm techincal feasibility | Link of hosted prototype (e.g. sketch, invision) |
-| 5 | PM | 1. Send the completed prototypes to client <br/> 2. Once received the feedback, discuss with UX designer for changes <br/> 3. Loop the process until the final prototype is released | Wait for client decision |
-| 6 | UI | 1. Generate web design template based on prototype <br/> 2. Submit completed pages to PM and dev | 1. Frontend codes in repository (e.g. gitlab) |
+| 3 | BA | 1. Send the questions to client <br/> 2. Once received the feedback, explained to tech team <br/> 3. Loop the process until there are no more questions left | Wait for client feedback |
+| 4 | UX | 1. Draw prototypes of each platform <br/> 2. Submit completed pages to PM and Dev to confirm techincal feasibility | Link of hosted prototype (e.g. sketch, invision) |
+| 5 | PM | 1. Send prototype hosted link to client <br/> 2. Once received the feedback, discuss with UX for changes <br/> 3. Loop the process until the final prototype is released | Wait for client feedback |
+| 6 | UI | 1. Generate web design template based on prototype <br/> 2. Submit completed pages to PM and Dev | Frontend codes in repository (e.g. gitlab) |
