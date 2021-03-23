@@ -38,7 +38,7 @@
 # 3rd Stage - Proposal for Additional Timeline & Cost
 | Step | Responsibility | Action | Output |
 | ---- | -------------- | ------ | ------ |
-| 1| BA, PM | 1. Analyse all the changes & new features made by client <br/> 2. Prepare to request additional timeline & cost | Impact of feature changes |
+| 1| BA, PM | 1. Analyse all the changes & new features made by client <br/> 2. Prepare to request additional timeline & cost | Overview of the impact of feature changes |
 | 2 | Dev | 1. Timeline estimation <br/> 2. Submit timeline to BA & PM <br/> 3. Add buffer to timeline by PM | Estimated timeline of additional changes |
 | 3 | BD, PD, PM, BA | 1. Calculate the additional project cost based on timeline | Estimated cost for additional changes |
 | 4 | PM, BA | Send the additional timeline & cost to client | Wait for client decision |
@@ -47,6 +47,9 @@
 | Step | Responsibility | Action | Output |
 | ---- | -------------- | ------ | ------ |
 | 1 | CTO, PM, Dev, SA | 1. Discuss server architecture, hosting, domains, CI/CD, etc. <br/> 2. PM to assign SA about the tasks <br/> 3. SA to give credentials to tech team once done | 1. Staging & production servers <br/> 2. Domains with HTTPS <br/> 3. Servers (e.g. web, database, mail) <br/> 4. GitLab repository |
-| 2 | Dev, SA | 1. Dev to create a initial project in local & push to GitLab <br/> 2. Test everything SA did are working well `(some services can't be tested at that time)` | Test result |
+| 2 | Dev, SA | 1. Dev to create an initial project in local & push code to hosting <br/> 2. Check everything SA did are working well `(some services can't be tested at that time)` | A test result |
 | 3 | PM, Dev | 1. If project include API integration, arrange meeting to list all possible API <br/> 2. Discuss & take notes | 1. API listing with request, response & headers <br/> 2. API security plan |
 | 4 | Dev | 1. Draw ER diagram <br/> 2. Set technical rules for tech team (e.g. git flow, code merge, code review plan) <br/> 3. Create API documentation (e.g. postman, swagger) <br/> 4. List third-party services to purchase <br/> 5. List things to research | A project development plan |
+| 5 | PM, QA | 1. Assign QA to write test case of each feature <br/> 2. Give that test case to Dev once done | Understanding of the test case |
+| 6 | PM, QA, Dev | 1. Explain the project management procedure <br/> 2. Explain the planned timeline <br/> 3. Explain the testing procedure <br/> 4. Start assigning of the task | Understanding of the project management plan |
+| 7 | PM | 1. If new features or changes requested during the development, follow these steps <br/> 2. Move all new features to end of each sprint <br/> 3. Integrate all changes within the sprint <br/> 4. Perform 3rd stage described above | A plan to manage the changes |
