@@ -24,13 +24,14 @@
 | 5 | BD, PD, PM, BA | Calculate the estimated project cost based on timeline | Overall estimated cost |
 | 6 | PM | 1. Submit documents from BA, CV of tech team members, project development procedure, tech stacks, estimated timeline and cost to client <br/> 2. Let the client know these are the initial estimations. The actual timeline and cost can be different based on upcoming changes | Wait for client decision |
 
-# 2nd Stage - Client Agreed the Proposal & Start Planning
+# 2nd Stage - Client Agree the Proposal & Start Planning
 
 | Step | Responsibility | Action | Output |
 | ---- | -------------- | ------ | ------ |
 | 1 | PM, BA | 1. Split the project by sprints <br/> 2. Add features by sprint in PMS (e.g. clickup, forcast) <br/> 3. Invite client to PMS | Wait for client decision |
 | 2 | PM, BA, UI, UX, Dev, QA | 1. Disuss technical & business flow of each feature in PMS by sprints <br/> 2. BA to note down the questions to clarify with client <br/> 3. Set the version releases inside the sprint for client to test | 1. Understanding of each feature <br/> 2. List of questions to clarify with client <br/> 3. Version Releases |
 | 3 | BA | 1. Send the questions & version releases to client <br/> 2. Once received the feedback, explained to tech team <br/> 3. Loop the process until there are no more questions left | Wait for client feedback |
+| 4 | BA, PM | 1. Make changes to existing documents & diagrams based on client feedback <br/> 2. Send all to client | Update documents & diagrams |
 
 # 3rd Stage - UI/UX Kick Off
 
