@@ -33,15 +33,19 @@
 | 3 | BA | 1. Send the questions & version releases to client <br/> 2. Once received the feedback, explained to tech team <br/> 3. Loop the process until there are no more questions left | Wait for client feedback |
 | 4 | BA, PM | 1. Make changes to existing documents, diagrams & PMS based on client feedback <br/> 2. Send all to client | Update documents, diagrams & PMS |
 
+> If there are out of scope features in feedbacks, check 4th stage
+
 # 3rd Stage - UI/UX Kick Off
 
 | Step | Responsibility | Action | Output |
 | ---- | -------------- | ------ | ------ |
 | 1 | UX | 1. Draw prototypes of each platform <br/> 2. Submit completed pages to PM and Dev to confirm techincal feasibility & make sure everything are in project scope | Link of hosted prototype (e.g. sketch, invision) |
-| 2 | PM, Dev | 1. Check & make remarks on the screens provided by UX <br/> 2. Request meeting with UX if needed <br/> 3. Once done, submit all the feedbacks UX | Feedback about prototype from technical & business perspective |
+| 2 | PM, Dev | 1. Check & remark on the screens provided by UX <br/> 2. Request meeting with UX if needed <br/> 3. Once done, submit all the feedbacks to UX | Feedback about prototype from technical & business perspective |
 | 3 | UX | 1. Once received the feedback, make changes to prototype <br/> 2. Request meeting with PM & Dev if needed <br/> 3. Loop the process until there are no more feedbacks left | Link of updated prototype |
 | 4 | PM | 1. Send prototype hosted link to client <br/> 2. Once received the feedback, discuss with UX for changes <br/> 3. Loop the process until the final prototype is released | Wait for client feedback |
 | 5 | UI | 1. Generate web design template based on prototype <br/> 2. Submit completed pages to PM and Dev | Frontend codes in repository (e.g. gitlab) |
+
+> If there are out of scope features in feedbacks, check 4th stage
 
 # 4th Stage - Proposal for Additional Timeline & Cost
 
