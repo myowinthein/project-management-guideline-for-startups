@@ -72,8 +72,12 @@
 | 1 | Dev | 1. If project include API integration, arrange meeting to list all possible API <br/> 2. Discuss & take notes | 1. API listing with request, response & headers <br/> 2. API security plan |
 | 2 | Dev | 1. Draw ER diagram <br/> 2. Set technical rules for tech team (e.g. git flow, code merge, code review plan) <br/> 3. Create API documentation (e.g. postman, swagger) <br/> 4. List third-party services to purchase <br/> 5. List things to research | A project development plan |
 | 3 | QA | 1. Write test cases of each feature <br/> 2. Give that test case to Dev once done | A test scenario |
-| 4 | PM, QA, Dev | 1. Explain the project management procedure <br/> 2. Explain the planned timeline <br/> 3. Explain the testing procedure <br/> 4. Start assigning of the task | Understanding of the project management plan |
-| 5 | PM | 1. If new features or changes requested during the development, follow these steps <br/> - Move all new features to end of each sprint <br/> - Integrate all changes within the sprint <br/> - Check 4th stage | A plan to manage the changes |
+| 4 | PM, QA, Dev | 1. Explain the project management procedure <br/> 2. Explain the planned timeline <br/> 3. Explain the testing procedure <br/> 4. Start assigning & managing of the tasks | Understanding of the project management plan |
+| 5 | Dev | 1. Once a version release is completed, upload to staging server <br/> 2. Submit the web domains & apps with login credentials to QA & PM | A staging server for internal testing |
+| 6 | PM, QA | 1. Perform testing & note bugs, improvements, feature requests, etc. <br/> 2. Once done, submit all the feedbacks to Dev | A test result |
+| 7 | Dev | 1. Once received the feedback, make changes to code <br/> 2. Loop the process until there are no more feedbacks left <br/> 3. Deploy changes to staging server | A staging server for external testing |
+| 8 | PM | 1. Submit the web domains & apps with login credentials to client <br/> 2. Once received the feedback, discuss with Dev for changes <br/> 3. Loop the process until no more feedbacks left | Wait for client feedback |
+| 9 | PM | If new features or changes requested during the development, follow these steps <br/> - Move all new features to end of the final sprint <br/> - Integrate changes of old features <br/> - Check 4th stage | A plan to manage the changes |
 
 # 7th Stage - Project Completion
 
