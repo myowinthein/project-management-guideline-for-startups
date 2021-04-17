@@ -52,8 +52,8 @@
 | Step | Responsibility | Action | Output |
 | ---- | -------------- | ------ | ------ |
 | 1| BA, PM | 1. Analyse all the changes & new features made by client <br/> 2. Prepare to request additional timeline & cost | Overview of the impact of feature changes |
-| 2 | Dev | 1. Timeline estimation <br/> 2. Submit timeline to BA & PM <br/> 3. Add buffer to timeline by PM | Estimated timeline of additional changes |
-| 3 | BD, PD, PM, BA | 1. Calculate the additional project cost based on timeline | Estimated cost for additional changes |
+| 2 | Dev, UX | 1. Timeline estimation <br/> 2. Submit timeline to BA & PM <br/> 3. Add buffer to timeline by PM | Estimated timeline of additional changes |
+| 3 | BD, PD, PM, BA | Calculate the additional project cost based on timeline | Estimated cost for additional changes |
 | 4 | PM, BA | Send the additional timeline & cost to client | Wait for client decision |
 
 # 5th Stage - Dev Kick Off
