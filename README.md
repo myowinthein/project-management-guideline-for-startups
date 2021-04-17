@@ -69,11 +69,11 @@
 
 | Step | Responsibility | Action | Output |
 | ---- | -------------- | ------ | ------ |
-| 1 | PM, Dev | 1. If project include API integration, arrange meeting to list all possible API <br/> 2. Discuss & take notes | 1. API listing with request, response & headers <br/> 2. API security plan |
+| 1 | Dev | 1. If project include API integration, arrange meeting to list all possible API <br/> 2. Discuss & take notes | 1. API listing with request, response & headers <br/> 2. API security plan |
 | 2 | Dev | 1. Draw ER diagram <br/> 2. Set technical rules for tech team (e.g. git flow, code merge, code review plan) <br/> 3. Create API documentation (e.g. postman, swagger) <br/> 4. List third-party services to purchase <br/> 5. List things to research | A project development plan |
-| 3 | PM, QA | 1. Assign QA to write test case of each feature <br/> 2. Give that test case to Dev once done | Understanding of the test case |
+| 3 | QA | 1. Write test cases of each feature <br/> 2. Give that test case to Dev once done | A test scenario |
 | 4 | PM, QA, Dev | 1. Explain the project management procedure <br/> 2. Explain the planned timeline <br/> 3. Explain the testing procedure <br/> 4. Start assigning of the task | Understanding of the project management plan |
-| 5 | PM | 1. If new features or changes requested during the development, follow these steps <br/> 2. Move all new features to end of each sprint <br/> 3. Integrate all changes within the sprint <br/> 4. Perform 3rd stage described above | A plan to manage the changes |
+| 5 | PM | 1. If new features or changes requested during the development, follow these steps <br/> - Move all new features to end of each sprint <br/> - Integrate all changes within the sprint <br/> - Check 4th stage | A plan to manage the changes |
 
 # 7th Stage - Project Completion
 
