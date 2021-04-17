@@ -60,8 +60,9 @@
 
 | Step | Responsibility | Action | Output |
 | ---- | -------------- | ------ | ------ |
-| 1 | CTO, PM, Dev, SA | 1. Discuss server architecture, hosting, domains, CI/CD, etc. <br/> 2. PM to assign SA about the tasks <br/> 3. SA to give credentials to tech team once done | 1. Staging & production servers <br/> 2. Domains with HTTPS <br/> 3. Servers (e.g. web, database, mail) <br/> 4. GitLab repository |
-| 2 | Dev, SA | 1. Dev to create an initial project in local & push code to hosting <br/> 2. Check everything SA did are working well `(some services can't be tested at that time)` | A test result |
+| 1 | CTO, PM, Dev, SA | 1. Discuss server architecture, hosting, domains, CI/CD, dockers, task automations, etc. <br/> 2. PM to assign SA about the tasks <br/> 3. SA to give credentials to tech team once done | 1. Staging & production servers <br/> 2. Domains with HTTPS <br/> 3. Servers (e.g. web, database, mail) <br/> 4. GitLab repository |
+| 2 | Dev, SA | 1. Dev to create an initial project in local & push code to hosting <br/> 2. Check everything SA did are working well `(some services can't be tested at that time)` <br/> 3. Once done, submit all the feedbacks to SA | A test result |
+| 3 | SA | 1. Once received the feedback, make changes to servers <br/> 2. Loop the process until there are no more feedbacks left | A complete server setup |
 
 # 6th Stage - Dev Kick Off
 | 1 | PM, Dev | 1. If project include API integration, arrange meeting to list all possible API <br/> 2. Discuss & take notes | 1. API listing with request, response & headers <br/> 2. API security plan |
